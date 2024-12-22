@@ -1,0 +1,7 @@
+C:\Users\Fahad\Desktop\Github\C-Sharp\first-app\first-app\bin\Debug\first-app.exe.config
+C:\Users\Fahad\Desktop\Github\C-Sharp\first-app\first-app\bin\Debug\first-app.exe
+C:\Users\Fahad\Desktop\Github\C-Sharp\first-app\first-app\bin\Debug\first-app.pdb
+C:\Users\Fahad\Desktop\Github\C-Sharp\first-app\first-app\obj\Debug\first-app.csproj.AssemblyReference.cache
+C:\Users\Fahad\Desktop\Github\C-Sharp\first-app\first-app\obj\Debug\first-app.csproj.CoreCompileInputs.cache
+C:\Users\Fahad\Desktop\Github\C-Sharp\first-app\first-app\obj\Debug\first-app.exe
+C:\Users\Fahad\Desktop\Github\C-Sharp\first-app\first-app\obj\Debug\first-app.pdb
