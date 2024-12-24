@@ -1,0 +1,7 @@
+C:\Users\Fahad\Desktop\Github\C-Sharp\Learn-C-Sharp\Constructs\Constructs\bin\Debug\Constructs.exe.config
+C:\Users\Fahad\Desktop\Github\C-Sharp\Learn-C-Sharp\Constructs\Constructs\bin\Debug\Constructs.exe
+C:\Users\Fahad\Desktop\Github\C-Sharp\Learn-C-Sharp\Constructs\Constructs\bin\Debug\Constructs.pdb
+C:\Users\Fahad\Desktop\Github\C-Sharp\Learn-C-Sharp\Constructs\Constructs\obj\Debug\Constructs.csproj.AssemblyReference.cache
+C:\Users\Fahad\Desktop\Github\C-Sharp\Learn-C-Sharp\Constructs\Constructs\obj\Debug\Constructs.csproj.CoreCompileInputs.cache
+C:\Users\Fahad\Desktop\Github\C-Sharp\Learn-C-Sharp\Constructs\Constructs\obj\Debug\Constructs.exe
+C:\Users\Fahad\Desktop\Github\C-Sharp\Learn-C-Sharp\Constructs\Constructs\obj\Debug\Constructs.pdb
