@@ -1,0 +1,7 @@
+C:\Users\dell\OneDrive\Desktop\Learn-C-Sharp\first-project\first-project\bin\Debug\first-project.exe.config
+C:\Users\dell\OneDrive\Desktop\Learn-C-Sharp\first-project\first-project\bin\Debug\first-project.exe
+C:\Users\dell\OneDrive\Desktop\Learn-C-Sharp\first-project\first-project\bin\Debug\first-project.pdb
+C:\Users\dell\OneDrive\Desktop\Learn-C-Sharp\first-project\first-project\obj\Debug\first-project.csproj.AssemblyReference.cache
+C:\Users\dell\OneDrive\Desktop\Learn-C-Sharp\first-project\first-project\obj\Debug\first-project.csproj.CoreCompileInputs.cache
+C:\Users\dell\OneDrive\Desktop\Learn-C-Sharp\first-project\first-project\obj\Debug\first-project.exe
+C:\Users\dell\OneDrive\Desktop\Learn-C-Sharp\first-project\first-project\obj\Debug\first-project.pdb
